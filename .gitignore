@@ -1,0 +1,16 @@
+# Local study-progress exports can contain personal notes.
+*学习进度*.json
+
+# Compiled exercises and temporary output.
+*.o
+*.obj
+*.exe
+*.out
+build/
+dist/
+
+# Editor and operating-system files.
+.DS_Store
+Thumbs.db
+*.swp
+*~
